@@ -1,12 +1,6 @@
 
 # Created by https://www.gitignore.io/api/node,bower,osx
 
-### Node ###
-# Logs
-logs
-*.log
-npm-debug.log*
-
 # Runtime data
 pids
 *.pid
